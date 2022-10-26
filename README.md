@@ -6,6 +6,8 @@ This project tries to automate the game that I am sure many of you must have pla
 - [Notebook (final code)](https://www.kaggle.com/code/kambojharyana/spot-the-difference-final-code)
 
 # Results -> 
+NOTE: The inputs are given as two separate images, as you can see in the examples notebooks and scripts, the two images are aligned below for better representation.
+
 ### Input Image 
 ![bear_input](input_images/bear_a.png)
 
