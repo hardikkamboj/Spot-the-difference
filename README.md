@@ -16,7 +16,7 @@ NOTE: The inputs are given as two separate images, as you can see in the example
 ![bear_input](input_images/bear_a.png)
 
 ### Result 
-![bear_output](results/bear2_a.png)
+![bear_output](results/bear2.png)
 <hr> 
 
 ### Input Image 
