@@ -1,6 +1,6 @@
 # Spot-the-difference
 
-![](results/result.gif) 
+![](results/result2.gif) 
 
 This project tries to automate the game that I am sure many of you must have played in your childhood (or adulthood too) especially while reading the newpapers early morning with a cup of tea (oh! the good old days)
 
@@ -14,7 +14,7 @@ NOTE: The inputs are given as two separate images, as you can see in the example
 ![bear_input](input_images/bear_a.png)
 
 ### Result 
-![bear_output](results/bear_a.png)
+![bear_output](results/bear2_a.png)
 <hr> 
 
 ### Input Image 
