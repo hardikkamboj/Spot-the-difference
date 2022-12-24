@@ -4,8 +4,10 @@
 
 This project tries to automate the game that I am sure many of you must have played in your childhood (or adulthood too) especially while reading the newpapers early morning with a cup of tea (oh! the good old days)
 
-- [Notebook (research](https://www.kaggle.com/code/kambojharyana/spot-the-difference-research?scriptVersionId=109173255)
-- [Notebook (final code)](https://www.kaggle.com/code/kambojharyana/spot-the-difference-final-code)
+
+- [Youtube Video](https://www.youtube.com/watch?v=GwjUVsnIpOU&t=14s)
+- [Kaggle Notebook (research](https://www.kaggle.com/code/kambojharyana/spot-the-difference-research?scriptVersionId=109173255)
+- [Kaggle Notebook (final code)](https://www.kaggle.com/code/kambojharyana/spot-the-difference-final-code)
 
 # Results -> 
 NOTE: The inputs are given as two separate images, as you can see in the examples notebooks and scripts, the two images are aligned below for better representation.
